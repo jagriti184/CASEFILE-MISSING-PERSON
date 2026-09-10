@@ -1,0 +1,16 @@
+current_area,predicted_next_area,probability
+Area_0,Area_0,0.9999973761338382
+Area_0,Area_2,2.332325477186504e-06
+Area_0,Area_4,2.91540684648313e-07
+Area_1,Area_1,0.9999394049566745
+Area_1,Area_4,6.059504332545598e-05
+Area_1,Area_0,0.0
+Area_2,Area_2,0.9999759811692367
+Area_2,Area_0,1.8014123072488833e-05
+Area_2,Area_3,6.00470769082961e-06
+Area_3,Area_3,0.9999388379204893
+Area_3,Area_2,6.116207951070337e-05
+Area_3,Area_0,0.0
+Area_4,Area_4,1.0
+Area_4,Area_0,0.0
+Area_4,Area_1,0.0
